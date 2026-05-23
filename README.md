@@ -336,19 +336,18 @@ This project helped me understand:
 
 ## Streamlit UI
 
-_Add screenshot here_
+<img width="1919" height="975" alt="image" src="https://github.com/user-attachments/assets/5d9f9385-10ee-4ec6-be2c-46706411e15f" />
+
 
 ---
 
-## Swagger API Docs
-
-_Add screenshot here_
 
 ---
 
 ## MLflow Dashboard
 
-_Add screenshot here_
+<img width="1919" height="516" alt="image" src="https://github.com/user-attachments/assets/4091ec74-4283-44dc-b8d9-4142526935de" />
+
 
 ---
 
