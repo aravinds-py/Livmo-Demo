@@ -1,0 +1,26 @@
+Healthcare Information Response
+
+Question:
+what is diabetes
+
+
+Retrieved Knowledge:
+Source: diabetes.txt
+Diabetes is a chronic condition that affects blood glucose regulation. Patient education includes blood sugar monitoring, medication adherence, nutrition, exercise, and follow-up care.
+
+Medication adherence means taking medicines as prescribed. Missing doses can make blood glucose harder to control. Patients should speak with a healthcare provider before changing medication.
+
+Healthy habits for diabetes management include balanced meals, regular physical activity, sleep, stress management, and r
+
+Source: hypertension.txt
+Hypertension, also called high blood pressure, increases the risk of heart disease, stroke, and kidney disease.
+
+Lifestyle recommendations include reducing sodium intake, eating fruits and vegetables, regular physical activity, limiting alcohol, managing stress, sleeping well, and taking prescribed medication.
+
+Patients should monitor blood pressure and attend follow-up appointments.
+
+Source: diabetes.txt
+clude balanced meals, regular physical activity, sleep, stress management, and routine monitoring.
+
+Summary:
+The answer above was generated from the healthcare knowledge base using retrieval-augmented generation principles.

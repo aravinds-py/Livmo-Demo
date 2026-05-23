@@ -1,0 +1,14 @@
+artifact_uri: file:C:/Users/Aravi/Desktop/Livmo-Demo/mlruns/563619668831945648/bf99229e606b427386d7ac7ac9addbb3/artifacts
+end_time: 1779544601779
+entry_point_name: ''
+experiment_id: '563619668831945648'
+lifecycle_stage: active
+run_id: bf99229e606b427386d7ac7ac9addbb3
+run_name: stylish-tern-925
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1779544601598
+status: 3
+tags: []
+user_id: Aravi
